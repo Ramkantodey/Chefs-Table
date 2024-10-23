@@ -1,0 +1,102 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Creamy Mushroom Risotto",
+        "recipe_image": "https://i.ibb.co/GWwdmNY/download-1.jpg",
+        "short_description": "A rich and indulgent risotto with earthy mushrooms.",
+        "ingredients": [
+            "300 g Arborio rice",
+            "1 L vegetable broth",
+            "200 g mushrooms",
+            "50 g grated Parmesan cheese",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "60 ml white wine",
+            "2 tbsp olive oil"
+        ],
+        "preparing_time": 40,
+        "calories": 380
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Classic Chicken Curry",
+        "recipe_image": "https://example.com/chicken-curry.jpg",
+        "short_description": "A flavorful chicken curry with a spicy kick.",
+        "ingredients": [
+            "500 g chicken",
+            "200 ml coconut milk",
+            "1 onion, finely chopped",
+            "3 cloves garlic, minced",
+            "2 tbsp curry powder",
+            "1 tbsp tomato paste",
+            "2 tbsp vegetable oil"
+        ],
+        "preparing_time": 45,
+        "calories": 420
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Vegan Tofu Stir Fry",
+        "recipe_image": "https://example.com/tofu-stirfry.jpg",
+        "short_description": "A healthy tofu stir fry with fresh vegetables.",
+        "ingredients": [
+            "400 g tofu",
+            "1 bell pepper, sliced",
+            "100 g broccoli",
+            "2 tbsp soy sauce",
+            "1 tsp sesame oil",
+            "2 cloves garlic, minced",
+            "1 tbsp vegetable oil"
+        ],
+        "preparing_time": 30,
+        "calories": 300
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Spaghetti Bolognese",
+        "recipe_image": "https://example.com/spaghetti-bolognese.jpg",
+        "short_description": "A classic Italian pasta dish with a rich meat sauce.",
+        "ingredients": [
+            "400 g spaghetti",
+            "500 g ground beef",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "400 g tomato sauce",
+            "1 tbsp olive oil",
+            "50 g grated Parmesan cheese"
+        ],
+        "preparing_time": 50,
+        "calories": 600
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Grilled Salmon",
+        "recipe_image": "https://example.com/grilled-salmon.jpg",
+        "short_description": "A perfectly grilled salmon fillet with lemon butter sauce.",
+        "ingredients": [
+            "2 salmon fillets",
+            "1 lemon, sliced",
+            "2 tbsp butter",
+            "1 tsp black pepper",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": 25,
+        "calories": 320
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Brownie",
+        "recipe_image": "https://example.com/chocolate-brownie.jpg",
+        "short_description": "A decadent chocolate brownie with a soft center.",
+        "ingredients": [
+            "200 g dark chocolate",
+            "150 g butter",
+            "200 g sugar",
+            "3 eggs",
+            "100 g flour",
+            "1 tsp vanilla extract"
+        ],
+        "preparing_time": 35,
+        "calories": 450
+    }
+]
