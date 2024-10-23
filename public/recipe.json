@@ -2,7 +2,7 @@
     {
         "recipe_id": 1,
         "recipe_name": "Creamy Mushroom Risotto",
-        "recipe_image": "https://i.ibb.co/GWwdmNY/download-1.jpg",
+        "recipe_image": "https://www.themediterraneandish.com/wp-content/uploads/2023/05/TMD-Mushroom-Risotto-WEB-19-480x270.jpg",
         "short_description": "A rich and indulgent risotto with earthy mushrooms.",
         "ingredients": [
             "300 g Arborio rice",
@@ -20,7 +20,7 @@
     {
         "recipe_id": 2,
         "recipe_name": "Classic Chicken Curry",
-        "recipe_image": "https://example.com/chicken-curry.jpg",
+        "recipe_image": "https://www.allrecipes.com/thmb/QcrNwbI0JvxdPwZ47m2bj2HY7ck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46822-Indian-Chicken-Curry-103301-2x1-1-41bd5b8de7ed476ea3c1fc023168cf39.jpg",
         "short_description": "A flavorful chicken curry with a spicy kick.",
         "ingredients": [
             "500 g chicken",
@@ -37,7 +37,7 @@
     {
         "recipe_id": 3,
         "recipe_name": "Vegan Tofu Stir Fry",
-        "recipe_image": "https://example.com/tofu-stirfry.jpg",
+        "recipe_image": "https://hips.hearstapps.com/hmg-prod/images/190130-tofu-stir-fry-horizontal-150-1549302524.jpg",
         "short_description": "A healthy tofu stir fry with fresh vegetables.",
         "ingredients": [
             "400 g tofu",
@@ -54,7 +54,7 @@
     {
         "recipe_id": 4,
         "recipe_name": "Spaghetti Bolognese",
-        "recipe_image": "https://example.com/spaghetti-bolognese.jpg",
+        "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ73lb29cjkk4u5z9XEgVrYA1ehHH6I2Zmug&s",
         "short_description": "A classic Italian pasta dish with a rich meat sauce.",
         "ingredients": [
             "400 g spaghetti",
@@ -71,7 +71,7 @@
     {
         "recipe_id": 5,
         "recipe_name": "Grilled Salmon",
-        "recipe_image": "https://example.com/grilled-salmon.jpg",
+        "recipe_image": "https://www.allrecipes.com/thmb/CfocX_0yH5_hFxtbFkzoWXrlycs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-12720-grilled-salmon-i-VAT-4x3-888cac0fb8a34f6fbde7bf836850cd1c.jpg",
         "short_description": "A perfectly grilled salmon fillet with lemon butter sauce.",
         "ingredients": [
             "2 salmon fillets",
@@ -86,7 +86,7 @@
     {
         "recipe_id": 6,
         "recipe_name": "Chocolate Brownie",
-        "recipe_image": "https://example.com/chocolate-brownie.jpg",
+        "recipe_image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/10/Gooey-Brownies-5627e49.jpg?resize=768,574",
         "short_description": "A decadent chocolate brownie with a soft center.",
         "ingredients": [
             "200 g dark chocolate",
